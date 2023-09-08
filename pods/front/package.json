@@ -54,7 +54,7 @@
     "@hcengineering/server-core": "^0.6.1",
     "@hcengineering/server-token": "^0.6.6",
     "@hcengineering/attachment": "^0.6.8",
-    "body-parser": "~1.19.1",
+    "body-parser": "~1.20.2",
     "compression": "~1.7.4",
     "sharp": "~0.30.7"
   }
