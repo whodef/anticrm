@@ -67,7 +67,7 @@
     "@hcengineering/dev-storage": "^0.6.6",
     "@hcengineering/server-attachment": "^0.6.1",
     "@hcengineering/server-attachment-resources": "^0.6.0",
-    "xml2js": "~0.4.23",
+    "xml2js": "~0.6.2",
     "@hcengineering/model-recruit": "^0.6.0",
     "@hcengineering/recruit": "^0.6.18",
     "@hcengineering/task": "^0.6.11",
